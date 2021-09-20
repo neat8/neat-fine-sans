@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thorn_stem" format="2">
+  <advance width="308"/>
+  <anchor x="248" y="247" name="loop_right"/>
+  <outline>
+    <contour>
+      <point x="-32" y="-172" type="line"/>
+      <point x="161" y="-172" type="line"/>
+      <point x="342" y="699" type="line"/>
+      <point x="149" y="699" type="line"/>
+    </contour>
+  </outline>
+</glyph>

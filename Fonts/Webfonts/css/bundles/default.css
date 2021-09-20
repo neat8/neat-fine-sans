@@ -1,0 +1,48 @@
+/* Copyright (c) 2021 neat8 | All Rights Reserved.
+ * This software is released under SIL OFL v1.1 license.
+ * The full license information can be found in LICENSE in the root directory of this project.
+ */
+
+/*
+ * Default recommended bundle, optimized for performance and CDN/Bundling tools.
+ */
+
+ /* light */
+ @font-face {
+  font-family: 'Neat Fine Sans';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: local('Neat Fine Sans'), url('../../Webfonts/WOFF2/NeatFineSans-Light.woff2') format('woff2'),
+    url('../../Webfonts/WOFF/NeatFineSans-Light.woff') format('woff');
+}
+
+/* regular */
+@font-face {
+  font-family: 'Neat Fine Sans';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: local('Neat Fine Sans'), url('../../Webfonts/WOFF2/NeatFineSans-Regular.woff2') format('woff2'),
+    url('../../Webfonts/WOFF/NeatFineSans-Regular.woff') format('woff');
+}
+
+/* medium */
+@font-face {
+  font-family: 'Neat Fine Sans';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: local('Neat Fine Sans'), url('../../Webfonts/WOFF2/NeatFineSans-Medium.woff2') format('woff2'),
+    url('../../Webfonts/WOFF/NeatFineSans-Medium.woff') format('woff');
+}
+
+/* semi bold */
+@font-face {
+  font-family: 'Neat Fine Sans';
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: local('Neat Fine Sans'), url('../../Webfonts/WOFF2/NeatFineSans-SemiBold.woff2') format('woff2'),
+    url('../../Webfonts/WOFF/NeatFineSans-SemiBold.woff') format('woff');
+}

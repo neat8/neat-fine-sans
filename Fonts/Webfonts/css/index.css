@@ -1,0 +1,43 @@
+/* Copyright (c) 2021 neat8 | All Rights Reserved.
+ * This software is released under SIL OFL v1.1 license.
+ * The full license information can be found in LICENSE in the root directory of this project.
+ */
+
+/* Neat Fine Sans Thin: 100 */
+@import url('./thin.css');
+@import url('./thin-italic.css');
+
+/* Neat Fine Sans Extra Light: 200 */
+@import url('./extra-light.css');
+@import url('./extra-light-italic.css');
+
+/* Neat Fine Sans Light: 300 */
+@import url('./light.css');
+@import url('./light-italic.css');
+
+/* Neat Fine Sans Regular: 400 */
+@import url('./regular.css');
+@import url('./regular-italic.css');
+
+/* Neat Fine Sans Medium: 500 */
+@import url('./medium.css');
+@import url('./medium-italic.css');
+
+/* Neat Fine Sans Semibold: 600 */
+@import url('./semibold.css');
+@import url('./semibold-italic.css');
+
+/* Neat Fine Sans Bold: 700 */
+@import url('./bold.css');
+@import url('./bold-italic.css');
+
+/* Neat Fine Sans Extra Bold: 800 */
+@import url('./extra-bold.css');
+@import url('./extra-bold-italic.css');
+
+/* Neat Fine Sans Black: 900 */
+@import url('./black.css');
+@import url('./black-italic.css');
+
+/* Neat Fine Sans Variable: wght 100-900 (roman & italic) */
+@import url('./variable.css');

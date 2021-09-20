@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecaron" format="2">
+  <advance width="568"/>
+  <unicode hex="011B"/>
+  <anchor x="268" y="-12" name="bottom"/>
+  <anchor x="291" y="704" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="caron" xOffset="125"/>
+  </outline>
+</glyph>

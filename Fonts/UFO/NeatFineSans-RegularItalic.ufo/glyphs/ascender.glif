@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ascender" format="2">
+  <advance width="250"/>
+  <anchor x="124" y="127" name="k_arms"/>
+  <anchor x="88" y="260" name="loop_left"/>
+  <anchor x="161" y="253" name="loop_right"/>
+  <anchor x="176" y="326" name="shoulder"/>
+  <outline>
+    <contour>
+      <point x="34" y="0" type="line"/>
+      <point x="109" y="0" type="line"/>
+      <point x="254" y="699" type="line"/>
+      <point x="179" y="699" type="line"/>
+    </contour>
+  </outline>
+</glyph>

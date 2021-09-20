@@ -1,0 +1,28 @@
+feature ss01 {
+featureNames {
+  name "Single-storey a";
+};
+sub a by a.alt;
+sub aacute by aacute.alt;
+sub abreve by abreve.alt;
+sub acircumflex by acircumflex.alt;
+sub adieresis by adieresis.alt;
+sub agrave by agrave.alt;
+sub amacron by amacron.alt;
+sub aogonek by aogonek.alt;
+sub aring by aring.alt;
+sub atilde by atilde.alt;
+} ss01;
+
+feature salt {
+sub a by a.alt;
+sub aacute by aacute.alt;
+sub abreve by abreve.alt;
+sub acircumflex by acircumflex.alt;
+sub adieresis by adieresis.alt;
+sub agrave by agrave.alt;
+sub amacron by amacron.alt;
+sub aogonek by aogonek.alt;
+sub aring by aring.alt;
+sub atilde by atilde.alt;
+} salt;

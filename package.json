@@ -1,0 +1,35 @@
+{
+    "name": "@neat8/neat-fine-sans",
+    "version": "1.0.0",
+    "description": "Neat Fine Sans: A modern, geometric typeface",
+    "keywords": [
+      "font",
+      "font family",
+      "type",
+      "typeface",
+      "neat fine sans",
+      "neat8",
+      "geometric",
+      "modern",
+      "variable font"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/neat8/neat-fine-sans/"
+    },
+    "scripts": {
+      "archive": "git archive --format zip -o font-neat-fine-sans.zip main"
+    },
+    "license": "OFL-1.1",
+    "bugs": {
+      "url": "https://github.com/neat8/neat-fine-sans/issues"
+    },
+    "homepage": "https://github.com/neat8/neat-fine-sans/",
+    "files": [
+      "Fonts/OpenType",
+      "Fonts/TrueType",
+      "Fonts/UFO",
+      "Fonts/Variable",
+      "Fonts/Webfonts"
+    ]
+  }

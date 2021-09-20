@@ -1,0 +1,14 @@
+/* Copyright (c) 2021 neat8 | All Rights Reserved.
+ * This software is released under SIL OFL v1.1 license.
+ * The full license information can be found in LICENSE in the root directory of this project.
+ */
+
+ @font-face {
+  font-family: 'Neat Fine Sans';
+  font-weight: 700;
+  font-style: italic;
+  src: 
+    local('Neat Fine Sans'),
+    url('../Webfonts/WOFF2/NeatFineSans-BoldItalic.woff2') format('woff2'), 
+    url('../Webfonts/WOFF/NeatFineSans-BoldItalic.woff') format('woff');
+}

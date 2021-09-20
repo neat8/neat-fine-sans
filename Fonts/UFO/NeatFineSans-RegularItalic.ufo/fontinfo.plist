@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>795</integer>
+    <key>capHeight</key>
+    <integer>687</integer>
+    <key>copyright</key>
+    <string>Copyright (c) 2021 neat8, with Reserved Font Name "Neat Fine Sans". Copyright (c) 2015-2020 Chris Simpson.</string>
+    <key>descender</key>
+    <integer>-205</integer>
+    <key>familyName</key>
+    <string>Neat Fine Sans</string>
+    <key>italicAngle</key>
+    <real>-11.75</real>
+    <key>openTypeHeadCreated</key>
+    <string>2020/01/01 22:55:50</string>
+    <key>openTypeHheaAscender</key>
+    <integer>795</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-205</integer>
+    <key>openTypeNameDesignerURL</key>
+    <string>https://github.com/neat8/neat-fine-sans</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at https://openfontlicense.org</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>https://openfontlicense.org</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>https://github.com/neat8/neat-fine-sans</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array>
+      <integer>3</integer>
+    </array>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>795</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-205</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>NEA8</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>987</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>306</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-16</integer>
+      <integer>0</integer>
+      <integer>517</integer>
+      <integer>533</integer>
+      <integer>687</integer>
+      <integer>703</integer>
+      <integer>795</integer>
+      <integer>811</integer>
+    </array>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-221</integer>
+      <integer>-205</integer>
+    </array>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <integer>67</integer>
+      <integer>71</integer>
+      <integer>74</integer>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <integer>75</integer>
+      <integer>78</integer>
+      <integer>79</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-133</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>20</integer>
+    <key>styleMapFamilyName</key>
+    <string>Neat Fine Sans Regular</string>
+    <key>styleMapStyleName</key>
+    <string>italic</string>
+    <key>styleName</key>
+    <string>Regular Italic</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>12</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <integer>517</integer>
+  </dict>
+</plist>

@@ -1,0 +1,32 @@
+name: Build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install build dependencies
+        run: pip install -r Sources/requirements.txt
+
+      - name: Build fonts
+        run: ./Sources/build.sh
+
+      # Statics and variable fonts are checked separately: fontbakery applies
+      # family-level checks per invocation and flags mixed directories.
+      - name: Check static fonts
+        run: fontbakery check-universal Fonts/TrueType/*.ttf --loglevel WARN --error-code-on FAIL
+
+      - name: Check variable fonts
+        run: fontbakery check-universal Fonts/Variable/*.ttf --loglevel WARN --error-code-on FAIL

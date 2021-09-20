@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edotbelow" format="2">
+  <advance width="672"/>
+  <unicode hex="1EB8"/>
+  <anchor x="324" y="-295" name="_top"/>
+  <anchor x="619" y="0" name="bottom"/>
+  <anchor x="343" y="687" name="top"/>
+  <anchor x="66" y="687" name="ae_upper"/>
+  <outline>
+    <component base="dotaccent" xOffset="216" yOffset="-812"/>
+    <component base="E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dotaccent</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
