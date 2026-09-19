@@ -21,6 +21,27 @@ def set_installable_embedding(path):
         font.save(path)
 
 
+def fix_default_instance_name(path):
+    """The fvar record sitting at the axis defaults must reuse name ID 2 (or 17).
+    The italic sources call that instance 'Regular Italic' while name ID 2 is
+    'Italic', which the OpenType fvar spec disallows."""
+    font = TTFont(path)
+    fvar = font["fvar"]
+    name = font["name"]
+    defaults = {a.axisTag: a.defaultValue for a in fvar.axes}
+    subfamily = name.getDebugName(2)
+    changed = False
+    for inst in fvar.instances:
+        if inst.coordinates != defaults or inst.subfamilyNameID == 2:
+            continue
+        print(f"  {os.path.basename(path)}: default instance "
+              f"{name.getDebugName(inst.subfamilyNameID)!r} -> {subfamily!r}")
+        inst.subfamilyNameID = 2
+        changed = True
+    if changed:
+        font.save(path)
+
+
 def drop_dead_axes(path):
     """Remove axes whose min == max: they carry no variation and confuse font UIs."""
     font = TTFont(path)
@@ -63,6 +84,7 @@ for pattern in ("ttf/*.ttf", "otf/*.otf"):
 
 for path in sorted(glob.glob(os.path.join(BUILD_DIR, "variable/*.ttf"))):
     drop_dead_axes(path)
+    fix_default_instance_name(path)
     set_installable_embedding(path)
 
 print("Post-processing complete.")
