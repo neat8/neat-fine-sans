@@ -1,0 +1,80 @@
+name: Release
+
+on:
+  push:
+    tags: ['v*']
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version to package (no leading v), e.g. 1.0.0'
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install build dependencies
+        run: pip install -r Sources/requirements.txt
+
+      - name: Resolve version
+        id: version
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "version=${{ inputs.version }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "version=${GITHUB_REF_NAME#v}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build fonts
+        run: ./Sources/build.sh
+
+      # Never publish fonts that have not passed the same gate as a normal push.
+      - name: Check static fonts
+        run: fontbakery check-universal Fonts/TrueType/*.ttf --loglevel WARN --error-code-on FAIL
+
+      - name: Check variable fonts
+        run: fontbakery check-universal Fonts/Variable/*.ttf --loglevel WARN --error-code-on FAIL
+
+      - name: Package archives
+        run: ./Sources/package_release.sh "${{ steps.version.outputs.version }}"
+
+      - name: Upload archives as build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: NeatFineSans-${{ steps.version.outputs.version }}
+          path: dist/*.zip
+
+      - name: Publish release
+        if: github.event_name == 'push'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          VERSION: ${{ steps.version.outputs.version }}
+        run: |
+          gh release create "$GITHUB_REF_NAME" dist/*.zip \
+            --title "Neat Fine Sans $VERSION" \
+            --notes-file - <<EOF
+          Neat Fine Sans $VERSION — static weights Thin to Black in roman and
+          italic, plus variable fonts with a \`wght\` axis spanning 100-900.
+
+          | Archive | Contents |
+          | --- | --- |
+          | OpenType | \`.otf\`, 18 static fonts |
+          | TrueType | \`.ttf\`, 18 static fonts |
+          | Variable | \`.ttf\` and \`.woff2\` variable fonts, roman and italic |
+          | Webfonts | \`.woff\`, \`.woff2\` and the \`@font-face\` CSS |
+          | UFO | editable UFO sources for Thin, Regular and Black |
+          | Complete | everything above |
+
+          Every archive includes the SIL Open Font License, under which these
+          fonts are released.
+          EOF

@@ -131,9 +131,17 @@ Cursify | Slant
 3. Space
 4. Draw BubbleKern bubbles 
 5. Re-Run BubbleKern (use `../Sources/NeatFineSans BubbleKern Pairs.txt`)
-6. Export 
-7. Commit 
-8. Create release tag
+6. Run `./Sources/build.sh` and commit the rebuilt fonts
+7. Bump `version` in `package.json` and the version in the `.glyphs` sources
+8. Tag the commit `vX.Y.Z` and push the tag
+
+Pushing a `v*` tag runs `.github/workflows/release.yml`, which rebuilds the
+family, re-runs fontbakery, and publishes a GitHub release with one archive per
+format. To produce the same archives locally without releasing:
+
+```
+./Sources/package_release.sh 1.0.0    # writes dist/*.zip
+```
 
 ## <a name="features"></a> OpenType features
 
