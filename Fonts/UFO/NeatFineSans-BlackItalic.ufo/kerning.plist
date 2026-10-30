@@ -126,8 +126,6 @@
       <integer>-10</integer>
       <key>trademark</key>
       <integer>-90</integer>
-      <key>underscore</key>
-      <integer>-190</integer>
       <key>yen</key>
       <integer>-70</integer>
     </dict>
@@ -273,8 +271,6 @@
       <integer>-110</integer>
       <key>trademark</key>
       <integer>-20</integer>
-      <key>underscore</key>
-      <integer>-250</integer>
       <key>yen</key>
       <integer>-50</integer>
     </dict>
@@ -424,8 +420,6 @@
       <integer>-45</integer>
       <key>trademark</key>
       <integer>-90</integer>
-      <key>underscore</key>
-      <integer>-245</integer>
       <key>yen</key>
       <integer>-55</integer>
     </dict>
@@ -541,8 +535,6 @@
       <integer>-145</integer>
       <key>sterling</key>
       <integer>-55</integer>
-      <key>underscore</key>
-      <integer>-215</integer>
       <key>yen</key>
       <integer>-20</integer>
     </dict>
@@ -654,8 +646,6 @@
       <integer>-35</integer>
       <key>trademark</key>
       <integer>-25</integer>
-      <key>underscore</key>
-      <integer>-110</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -1183,8 +1173,6 @@
       <integer>-50</integer>
       <key>trademark</key>
       <integer>-25</integer>
-      <key>underscore</key>
-      <integer>-45</integer>
       <key>yen</key>
       <integer>-50</integer>
     </dict>
@@ -1432,8 +1420,6 @@
       <integer>-60</integer>
       <key>trademark</key>
       <integer>-75</integer>
-      <key>underscore</key>
-      <integer>-75</integer>
       <key>yen</key>
       <integer>-90</integer>
     </dict>
@@ -1639,8 +1625,6 @@
       <integer>-35</integer>
       <key>trademark</key>
       <integer>-85</integer>
-      <key>underscore</key>
-      <integer>-190</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -1724,8 +1708,6 @@
       <integer>-10</integer>
       <key>trademark</key>
       <integer>-20</integer>
-      <key>underscore</key>
-      <integer>-85</integer>
       <key>yen</key>
       <integer>-50</integer>
     </dict>
@@ -1809,8 +1791,6 @@
       <integer>-10</integer>
       <key>trademark</key>
       <integer>-20</integer>
-      <key>underscore</key>
-      <integer>-85</integer>
       <key>yen</key>
       <integer>-50</integer>
     </dict>
@@ -1936,8 +1916,6 @@
       <integer>-40</integer>
       <key>sterling</key>
       <integer>-10</integer>
-      <key>underscore</key>
-      <integer>-40</integer>
       <key>yen</key>
       <integer>-50</integer>
     </dict>
@@ -2105,8 +2083,6 @@
       <integer>-10</integer>
       <key>trademark</key>
       <integer>-155</integer>
-      <key>underscore</key>
-      <integer>-10</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -2220,8 +2196,6 @@
       <integer>-35</integer>
       <key>trademark</key>
       <integer>-40</integer>
-      <key>underscore</key>
-      <integer>-105</integer>
       <key>yen</key>
       <integer>-70</integer>
     </dict>
@@ -2363,8 +2337,6 @@
       <integer>-175</integer>
       <key>sterling</key>
       <integer>-95</integer>
-      <key>underscore</key>
-      <integer>-210</integer>
       <key>yen</key>
       <integer>-30</integer>
     </dict>
@@ -2450,8 +2422,6 @@
       <integer>-60</integer>
       <key>sterling</key>
       <integer>-35</integer>
-      <key>underscore</key>
-      <integer>-275</integer>
       <key>yen</key>
       <integer>-45</integer>
     </dict>
@@ -2579,8 +2549,6 @@
       <integer>-20</integer>
       <key>trademark</key>
       <integer>-100</integer>
-      <key>underscore</key>
-      <integer>-120</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -2708,8 +2676,6 @@
       <integer>-20</integer>
       <key>trademark</key>
       <integer>-100</integer>
-      <key>underscore</key>
-      <integer>-120</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -2873,8 +2839,6 @@
       <integer>-10</integer>
       <key>trademark</key>
       <integer>-385</integer>
-      <key>underscore</key>
-      <integer>-45</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -2970,8 +2934,6 @@
       <integer>-35</integer>
       <key>trademark</key>
       <integer>-85</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
       <key>yen</key>
       <integer>-50</integer>
     </dict>
@@ -3067,8 +3029,6 @@
       <integer>-35</integer>
       <key>trademark</key>
       <integer>-85</integer>
-      <key>underscore</key>
-      <integer>-285</integer>
       <key>yen</key>
       <integer>-50</integer>
     </dict>
@@ -3128,8 +3088,6 @@
       <integer>-15</integer>
       <key>sterling</key>
       <integer>-10</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
       <key>yen</key>
       <integer>-20</integer>
     </dict>
@@ -3185,8 +3143,6 @@
       <integer>-45</integer>
       <key>sterling</key>
       <integer>-10</integer>
-      <key>underscore</key>
-      <integer>-130</integer>
       <key>yen</key>
       <integer>-20</integer>
     </dict>
@@ -3274,8 +3230,6 @@
       <integer>-70</integer>
       <key>sterling</key>
       <integer>-35</integer>
-      <key>underscore</key>
-      <integer>-300</integer>
       <key>yen</key>
       <integer>-45</integer>
     </dict>
@@ -3491,8 +3445,6 @@
       <integer>15</integer>
       <key>trademark</key>
       <integer>-65</integer>
-      <key>underscore</key>
-      <integer>-315</integer>
       <key>yen</key>
       <integer>-30</integer>
     </dict>
@@ -3730,8 +3682,6 @@
       <integer>-40</integer>
       <key>trademark</key>
       <integer>-75</integer>
-      <key>underscore</key>
-      <integer>-315</integer>
       <key>yen</key>
       <integer>-30</integer>
     </dict>
@@ -3947,8 +3897,6 @@
       <integer>15</integer>
       <key>trademark</key>
       <integer>-65</integer>
-      <key>underscore</key>
-      <integer>-185</integer>
       <key>yen</key>
       <integer>-30</integer>
     </dict>
@@ -4186,8 +4134,6 @@
       <integer>-40</integer>
       <key>trademark</key>
       <integer>-75</integer>
-      <key>underscore</key>
-      <integer>-185</integer>
       <key>yen</key>
       <integer>-30</integer>
     </dict>
@@ -4283,8 +4229,6 @@
       <integer>-35</integer>
       <key>trademark</key>
       <integer>-85</integer>
-      <key>underscore</key>
-      <integer>-180</integer>
       <key>yen</key>
       <integer>-50</integer>
     </dict>
@@ -4330,8 +4274,6 @@
       <integer>25</integer>
       <key>sterling</key>
       <integer>-10</integer>
-      <key>underscore</key>
-      <integer>-300</integer>
     </dict>
     <key>minus</key>
     <dict>
@@ -4415,8 +4357,6 @@
       <integer>-60</integer>
       <key>sterling</key>
       <integer>-35</integer>
-      <key>underscore</key>
-      <integer>-325</integer>
       <key>yen</key>
       <integer>-45</integer>
     </dict>
@@ -4664,8 +4604,6 @@
       <integer>-55</integer>
       <key>trademark</key>
       <integer>-40</integer>
-      <key>underscore</key>
-      <integer>-280</integer>
       <key>yen</key>
       <integer>-60</integer>
     </dict>
@@ -4915,8 +4853,6 @@
       <integer>-105</integer>
       <key>trademark</key>
       <integer>-25</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
       <key>yen</key>
       <integer>-25</integer>
     </dict>
@@ -5125,8 +5061,6 @@
       <integer>35</integer>
       <key>sterling</key>
       <integer>-55</integer>
-      <key>underscore</key>
-      <integer>-10</integer>
       <key>yen</key>
       <integer>-20</integer>
     </dict>
@@ -5242,8 +5176,6 @@
       <integer>-25</integer>
       <key>trademark</key>
       <integer>-40</integer>
-      <key>underscore</key>
-      <integer>-65</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -5397,8 +5329,6 @@
       <integer>-15</integer>
       <key>trademark</key>
       <integer>-125</integer>
-      <key>underscore</key>
-      <integer>-85</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -5528,8 +5458,6 @@
       <integer>-35</integer>
       <key>trademark</key>
       <integer>-85</integer>
-      <key>underscore</key>
-      <integer>-145</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -5683,8 +5611,6 @@
       <integer>-15</integer>
       <key>trademark</key>
       <integer>-125</integer>
-      <key>underscore</key>
-      <integer>-85</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -5770,8 +5696,6 @@
       <integer>-60</integer>
       <key>sterling</key>
       <integer>-35</integer>
-      <key>underscore</key>
-      <integer>-300</integer>
       <key>yen</key>
       <integer>-45</integer>
     </dict>
@@ -5943,8 +5867,6 @@
       <integer>-10</integer>
       <key>trademark</key>
       <integer>-90</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -6090,8 +6012,6 @@
       <integer>-20</integer>
       <key>trademark</key>
       <integer>-35</integer>
-      <key>underscore</key>
-      <integer>-195</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -6259,8 +6179,6 @@
       <integer>20</integer>
       <key>sterling</key>
       <integer>25</integer>
-      <key>underscore</key>
-      <integer>-175</integer>
       <key>yen</key>
       <integer>-20</integer>
     </dict>
@@ -6370,8 +6288,6 @@
       <integer>-35</integer>
       <key>trademark</key>
       <integer>-25</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
       <key>yen</key>
       <integer>-60</integer>
     </dict>
@@ -6417,8 +6333,6 @@
       <integer>25</integer>
       <key>sterling</key>
       <integer>-10</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
     </dict>
     <key>public.kern1.F</key>
     <dict>
@@ -6476,8 +6390,6 @@
       <integer>-70</integer>
       <key>sterling</key>
       <integer>-35</integer>
-      <key>underscore</key>
-      <integer>-325</integer>
     </dict>
     <key>public.kern1.G</key>
     <dict>
@@ -6539,8 +6451,6 @@
       <integer>-20</integer>
       <key>sterling</key>
       <integer>-10</integer>
-      <key>underscore</key>
-      <integer>-200</integer>
       <key>yen</key>
       <integer>-25</integer>
     </dict>
@@ -6586,8 +6496,6 @@
       <integer>25</integer>
       <key>sterling</key>
       <integer>-10</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
     </dict>
     <key>public.kern1.I</key>
     <dict>
@@ -6633,8 +6541,6 @@
       <integer>25</integer>
       <key>sterling</key>
       <integer>-10</integer>
-      <key>underscore</key>
-      <integer>-160</integer>
     </dict>
     <key>public.kern1.J</key>
     <dict>
@@ -6680,8 +6586,6 @@
       <integer>-30</integer>
       <key>sterling</key>
       <integer>-25</integer>
-      <key>underscore</key>
-      <integer>-115</integer>
     </dict>
     <key>public.kern1.K</key>
     <dict>
@@ -6841,8 +6745,6 @@
       <integer>-10</integer>
       <key>trademark</key>
       <integer>-40</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
     </dict>
     <key>public.kern1.L</key>
     <dict>
@@ -6954,8 +6856,6 @@
       <integer>-10</integer>
       <key>trademark</key>
       <integer>-260</integer>
-      <key>underscore</key>
-      <integer>-300</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -7067,8 +6967,6 @@
       <integer>-10</integer>
       <key>trademark</key>
       <integer>-250</integer>
-      <key>underscore</key>
-      <integer>-315</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -7114,8 +7012,6 @@
       <integer>25</integer>
       <key>sterling</key>
       <integer>-10</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
     </dict>
     <key>public.kern1.N</key>
     <dict>
@@ -7159,8 +7055,6 @@
       <integer>25</integer>
       <key>sterling</key>
       <integer>-10</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
     </dict>
     <key>public.kern1.O</key>
     <dict>
@@ -7266,8 +7160,6 @@
       <integer>-35</integer>
       <key>trademark</key>
       <integer>-25</integer>
-      <key>underscore</key>
-      <integer>-260</integer>
       <key>yen</key>
       <integer>-60</integer>
     </dict>
@@ -7373,8 +7265,6 @@
       <integer>-35</integer>
       <key>trademark</key>
       <integer>-25</integer>
-      <key>underscore</key>
-      <integer>-250</integer>
     </dict>
     <key>public.kern1.P</key>
     <dict>
@@ -7494,8 +7384,6 @@
       <integer>-130</integer>
       <key>sterling</key>
       <integer>-40</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
       <key>yen</key>
       <integer>-40</integer>
     </dict>
@@ -7603,8 +7491,6 @@
       <integer>-35</integer>
       <key>trademark</key>
       <integer>-25</integer>
-      <key>underscore</key>
-      <integer>-260</integer>
       <key>yen</key>
       <integer>-60</integer>
     </dict>
@@ -7722,8 +7608,6 @@
       <integer>25</integer>
       <key>sterling</key>
       <integer>-10</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
       <key>yen</key>
       <integer>-45</integer>
     </dict>
@@ -7845,8 +7729,6 @@
       <integer>-25</integer>
       <key>trademark</key>
       <integer>-70</integer>
-      <key>underscore</key>
-      <integer>-180</integer>
       <key>yen</key>
       <integer>-50</integer>
     </dict>
@@ -7972,8 +7854,6 @@
       <integer>-40</integer>
       <key>sterling</key>
       <integer>-75</integer>
-      <key>underscore</key>
-      <integer>-320</integer>
     </dict>
     <key>public.kern1.Thorn</key>
     <dict>
@@ -8085,8 +7965,6 @@
       <integer>-35</integer>
       <key>trademark</key>
       <integer>-30</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
       <key>yen</key>
       <integer>-60</integer>
     </dict>
@@ -8146,8 +8024,6 @@
       <integer>-60</integer>
       <key>sterling</key>
       <integer>-35</integer>
-      <key>underscore</key>
-      <integer>-180</integer>
     </dict>
     <key>public.kern1.V</key>
     <dict>
@@ -8335,8 +8211,6 @@
       <integer>-95</integer>
       <key>trademark</key>
       <integer>-20</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
     </dict>
     <key>public.kern1.W</key>
     <dict>
@@ -8524,8 +8398,6 @@
       <integer>-80</integer>
       <key>trademark</key>
       <integer>-20</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
     </dict>
     <key>public.kern1.X</key>
     <dict>
@@ -8711,8 +8583,6 @@
       <integer>-25</integer>
       <key>trademark</key>
       <integer>-25</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
     </dict>
     <key>public.kern1.Y</key>
     <dict>
@@ -8900,8 +8770,6 @@
       <integer>-95</integer>
       <key>trademark</key>
       <integer>-25</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
     </dict>
     <key>public.kern1.Z</key>
     <dict>
@@ -8945,8 +8813,6 @@
       <integer>25</integer>
       <key>sterling</key>
       <integer>-10</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
     </dict>
     <key>public.kern1.a</key>
     <dict>
@@ -9008,8 +8874,6 @@
       <integer>25</integer>
       <key>sterling</key>
       <integer>-10</integer>
-      <key>underscore</key>
-      <integer>-315</integer>
       <key>yen</key>
       <integer>-30</integer>
     </dict>
@@ -9101,8 +8965,6 @@
       <integer>-10</integer>
       <key>trademark</key>
       <integer>-55</integer>
-      <key>underscore</key>
-      <integer>-285</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -9230,8 +9092,6 @@
       <integer>-35</integer>
       <key>trademark</key>
       <integer>-70</integer>
-      <key>underscore</key>
-      <integer>-160</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -9317,8 +9177,6 @@
       <integer>-10</integer>
       <key>trademark</key>
       <integer>-15</integer>
-      <key>underscore</key>
-      <integer>-135</integer>
       <key>yen</key>
       <integer>-45</integer>
     </dict>
@@ -9364,8 +9222,6 @@
       <integer>25</integer>
       <key>sterling</key>
       <integer>-10</integer>
-      <key>underscore</key>
-      <integer>-325</integer>
     </dict>
     <key>public.kern1.dcaron</key>
     <dict>
@@ -9571,8 +9427,6 @@
       <integer>-85</integer>
       <key>trademark</key>
       <integer>15</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
     </dict>
     <key>public.kern1.dcroat</key>
     <dict>
@@ -9682,8 +9536,6 @@
       <integer>30</integer>
       <key>trademark</key>
       <integer>0</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
     </dict>
     <key>public.kern1.e</key>
     <dict>
@@ -9789,8 +9641,6 @@
       <integer>-15</integer>
       <key>trademark</key>
       <integer>-35</integer>
-      <key>underscore</key>
-      <integer>-125</integer>
       <key>yen</key>
       <integer>-60</integer>
     </dict>
@@ -9904,8 +9754,6 @@
       <integer>-35</integer>
       <key>trademark</key>
       <integer>-40</integer>
-      <key>underscore</key>
-      <integer>-200</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -9975,8 +9823,6 @@
       <integer>-55</integer>
       <key>sterling</key>
       <integer>-35</integer>
-      <key>underscore</key>
-      <integer>-200</integer>
     </dict>
     <key>public.kern1.g</key>
     <dict>
@@ -10183,8 +10029,6 @@
       <integer>-15</integer>
       <key>trademark</key>
       <integer>-15</integer>
-      <key>underscore</key>
-      <integer>-140</integer>
       <key>yen</key>
       <integer>-45</integer>
     </dict>
@@ -10276,8 +10120,6 @@
       <integer>-10</integer>
       <key>trademark</key>
       <integer>-40</integer>
-      <key>underscore</key>
-      <integer>-315</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -10341,8 +10183,6 @@
       <integer>25</integer>
       <key>sterling</key>
       <integer>-10</integer>
-      <key>underscore</key>
-      <integer>-150</integer>
       <key>yen</key>
       <integer>-30</integer>
     </dict>
@@ -10449,8 +10289,6 @@
       <integer>25</integer>
       <key>sterling</key>
       <integer>-10</integer>
-      <key>underscore</key>
-      <integer>-160</integer>
     </dict>
     <key>public.kern1.lcaron</key>
     <dict>
@@ -10680,8 +10518,6 @@
       <integer>-60</integer>
       <key>trademark</key>
       <integer>40</integer>
-      <key>underscore</key>
-      <integer>-250</integer>
       <key>yen</key>
       <integer>20</integer>
     </dict>
@@ -10727,8 +10563,6 @@
       <integer>25</integer>
       <key>sterling</key>
       <integer>-10</integer>
-      <key>underscore</key>
-      <integer>-195</integer>
     </dict>
     <key>public.kern1.m</key>
     <dict>
@@ -10816,8 +10650,6 @@
       <integer>-10</integer>
       <key>trademark</key>
       <integer>-40</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -10909,8 +10741,6 @@
       <integer>-10</integer>
       <key>trademark</key>
       <integer>-40</integer>
-      <key>underscore</key>
-      <integer>-310</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -11040,8 +10870,6 @@
       <integer>-35</integer>
       <key>trademark</key>
       <integer>-90</integer>
-      <key>underscore</key>
-      <integer>-210</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -11145,8 +10973,6 @@
       <integer>-50</integer>
       <key>sterling</key>
       <integer>-35</integer>
-      <key>underscore</key>
-      <integer>-185</integer>
       <key>yen</key>
       <integer>-35</integer>
     </dict>
@@ -11274,8 +11100,6 @@
       <integer>-35</integer>
       <key>trademark</key>
       <integer>-70</integer>
-      <key>underscore</key>
-      <integer>-160</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -11408,8 +11232,6 @@
       <integer>-95</integer>
       <key>sterling</key>
       <integer>-35</integer>
-      <key>underscore</key>
-      <integer>-215</integer>
       <key>yen</key>
       <integer>-20</integer>
     </dict>
@@ -11565,8 +11387,6 @@
       <integer>-15</integer>
       <key>trademark</key>
       <integer>-35</integer>
-      <key>underscore</key>
-      <integer>-130</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -11877,8 +11697,6 @@
       <integer>-70</integer>
       <key>trademark</key>
       <integer>45</integer>
-      <key>underscore</key>
-      <integer>-195</integer>
       <key>yen</key>
       <integer>25</integer>
     </dict>
@@ -12006,8 +11824,6 @@
       <integer>-35</integer>
       <key>trademark</key>
       <integer>-70</integer>
-      <key>underscore</key>
-      <integer>-160</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -12071,8 +11887,6 @@
       <integer>25</integer>
       <key>sterling</key>
       <integer>-10</integer>
-      <key>underscore</key>
-      <integer>-250</integer>
       <key>yen</key>
       <integer>-30</integer>
     </dict>
@@ -12204,8 +12018,6 @@
       <integer>-15</integer>
       <key>sterling</key>
       <integer>-40</integer>
-      <key>underscore</key>
-      <integer>-315</integer>
       <key>yen</key>
       <integer>-30</integer>
     </dict>
@@ -12341,8 +12153,6 @@
       <integer>-40</integer>
       <key>sterling</key>
       <integer>-55</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
       <key>yen</key>
       <integer>-30</integer>
     </dict>
@@ -12504,8 +12314,6 @@
       <integer>-10</integer>
       <key>trademark</key>
       <integer>-10</integer>
-      <key>underscore</key>
-      <integer>-295</integer>
       <key>yen</key>
       <integer>-40</integer>
     </dict>
@@ -12657,8 +12465,6 @@
       <integer>-50</integer>
       <key>sterling</key>
       <integer>-60</integer>
-      <key>underscore</key>
-      <integer>-95</integer>
       <key>yen</key>
       <integer>-35</integer>
     </dict>
@@ -12722,8 +12528,6 @@
       <integer>25</integer>
       <key>sterling</key>
       <integer>-10</integer>
-      <key>underscore</key>
-      <integer>-280</integer>
       <key>yen</key>
       <integer>-30</integer>
     </dict>
@@ -12855,8 +12659,6 @@
       <integer>-95</integer>
       <key>sterling</key>
       <integer>-60</integer>
-      <key>underscore</key>
-      <integer>-140</integer>
       <key>yen</key>
       <integer>-35</integer>
     </dict>
@@ -13269,8 +13071,6 @@
       <integer>-180</integer>
       <key>sterling</key>
       <integer>-85</integer>
-      <key>underscore</key>
-      <integer>-285</integer>
       <key>yen</key>
       <integer>-15</integer>
     </dict>
@@ -13438,8 +13238,6 @@
       <integer>-10</integer>
       <key>trademark</key>
       <integer>-305</integer>
-      <key>underscore</key>
-      <integer>-10</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -13569,8 +13367,6 @@
       <integer>-135</integer>
       <key>sterling</key>
       <integer>-40</integer>
-      <key>underscore</key>
-      <integer>-305</integer>
       <key>yen</key>
       <integer>-45</integer>
     </dict>
@@ -13714,8 +13510,6 @@
       <integer>-175</integer>
       <key>sterling</key>
       <integer>-85</integer>
-      <key>underscore</key>
-      <integer>-305</integer>
       <key>yen</key>
       <integer>-25</integer>
     </dict>
@@ -13839,8 +13633,6 @@
       <integer>-140</integer>
       <key>sterling</key>
       <integer>-45</integer>
-      <key>underscore</key>
-      <integer>-155</integer>
       <key>yen</key>
       <integer>-45</integer>
     </dict>
@@ -13984,8 +13776,6 @@
       <integer>-155</integer>
       <key>sterling</key>
       <integer>-85</integer>
-      <key>underscore</key>
-      <integer>-155</integer>
       <key>yen</key>
       <integer>-25</integer>
     </dict>
@@ -14153,8 +13943,6 @@
       <integer>-10</integer>
       <key>trademark</key>
       <integer>-155</integer>
-      <key>underscore</key>
-      <integer>-10</integer>
       <key>yen</key>
       <integer>-65</integer>
     </dict>
@@ -14324,8 +14112,6 @@
       <integer>-145</integer>
       <key>sterling</key>
       <integer>-85</integer>
-      <key>underscore</key>
-      <integer>-145</integer>
       <key>yen</key>
       <integer>-15</integer>
     </dict>
@@ -14447,8 +14233,6 @@
       <integer>-125</integer>
       <key>sterling</key>
       <integer>-40</integer>
-      <key>underscore</key>
-      <integer>-300</integer>
       <key>yen</key>
       <integer>-45</integer>
     </dict>
@@ -14575,8 +14359,6 @@
       <key>slash</key>
       <integer>30</integer>
       <key>sterling</key>
-      <integer>-10</integer>
-      <key>underscore</key>
       <integer>-10</integer>
       <key>yen</key>
       <integer>-50</integer>
@@ -14821,8 +14603,6 @@
       <integer>-130</integer>
       <key>trademark</key>
       <integer>-15</integer>
-      <key>underscore</key>
-      <integer>-260</integer>
       <key>yen</key>
       <integer>30</integer>
     </dict>
@@ -14886,8 +14666,6 @@
       <integer>25</integer>
       <key>sterling</key>
       <integer>-10</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
       <key>yen</key>
       <integer>-30</integer>
     </dict>
@@ -14955,243 +14733,15 @@
       <integer>-90</integer>
       <key>sterling</key>
       <integer>-35</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
       <key>yen</key>
       <integer>-20</integer>
     </dict>
     <key>underscore</key>
     <dict>
-      <key>ampersand</key>
-      <integer>-140</integer>
-      <key>asciicircum</key>
-      <integer>-250</integer>
-      <key>asciitilde</key>
-      <integer>-245</integer>
-      <key>asterisk</key>
-      <integer>-215</integer>
-      <key>at</key>
-      <integer>-115</integer>
-      <key>backslash</key>
-      <integer>-270</integer>
-      <key>braceleft</key>
-      <integer>-80</integer>
-      <key>braceright</key>
-      <integer>-25</integer>
-      <key>bullet</key>
-      <integer>-190</integer>
-      <key>cent</key>
-      <integer>-205</integer>
-      <key>cent.BRACKET.varAlt01</key>
-      <integer>-205</integer>
-      <key>colon</key>
-      <integer>-75</integer>
-      <key>comma</key>
-      <integer>-45</integer>
-      <key>copyright</key>
-      <integer>-120</integer>
-      <key>degree</key>
-      <integer>-210</integer>
-      <key>divide</key>
-      <integer>-295</integer>
-      <key>dollar</key>
-      <integer>-165</integer>
-      <key>dollar.BRACKET.varAlt01</key>
-      <integer>-165</integer>
-      <key>ellipsis</key>
-      <integer>-75</integer>
-      <key>emdash</key>
-      <integer>-330</integer>
-      <key>endash</key>
-      <integer>-285</integer>
-      <key>equal</key>
-      <integer>-330</integer>
-      <key>euro</key>
-      <integer>-310</integer>
-      <key>greater</key>
-      <integer>-300</integer>
-      <key>guillemetleft</key>
-      <integer>-315</integer>
-      <key>guillemetright</key>
-      <integer>-315</integer>
-      <key>guilsinglleft</key>
-      <integer>-185</integer>
-      <key>guilsinglright</key>
-      <integer>-185</integer>
-      <key>hyphen</key>
-      <integer>-180</integer>
-      <key>less</key>
-      <integer>-300</integer>
-      <key>minus</key>
-      <integer>-325</integer>
-      <key>multiply</key>
-      <integer>-280</integer>
-      <key>numbersign</key>
-      <integer>-330</integer>
-      <key>paragraph</key>
-      <integer>-245</integer>
-      <key>parenleft</key>
-      <integer>-90</integer>
-      <key>percent</key>
-      <integer>-330</integer>
-      <key>periodcentered</key>
-      <integer>-145</integer>
-      <key>perthousand</key>
-      <integer>-330</integer>
-      <key>plus</key>
-      <integer>-300</integer>
-      <key>public.kern2.A</key>
-      <integer>-330</integer>
-      <key>public.kern2.C</key>
-      <integer>-310</integer>
-      <key>public.kern2.E</key>
-      <integer>-330</integer>
-      <key>public.kern2.F</key>
-      <integer>-325</integer>
-      <key>public.kern2.G</key>
-      <integer>-315</integer>
-      <key>public.kern2.H</key>
-      <integer>-330</integer>
-      <key>public.kern2.I</key>
-      <integer>-160</integer>
-      <key>public.kern2.J</key>
-      <integer>-90</integer>
-      <key>public.kern2.K</key>
-      <integer>-330</integer>
-      <key>public.kern2.L</key>
-      <integer>-300</integer>
-      <key>public.kern2.Lslash</key>
-      <integer>-315</integer>
-      <key>public.kern2.M</key>
-      <integer>-330</integer>
-      <key>public.kern2.N</key>
-      <integer>-330</integer>
-      <key>public.kern2.O</key>
-      <integer>-305</integer>
-      <key>public.kern2.Oslash</key>
-      <integer>-290</integer>
-      <key>public.kern2.P</key>
-      <integer>-330</integer>
-      <key>public.kern2.Q</key>
-      <integer>-295</integer>
-      <key>public.kern2.R</key>
-      <integer>-330</integer>
-      <key>public.kern2.S</key>
-      <integer>-230</integer>
-      <key>public.kern2.T</key>
-      <integer>-320</integer>
-      <key>public.kern2.Thorn</key>
-      <integer>-330</integer>
-      <key>public.kern2.U</key>
-      <integer>-215</integer>
-      <key>public.kern2.V</key>
-      <integer>-330</integer>
-      <key>public.kern2.W</key>
-      <integer>-330</integer>
-      <key>public.kern2.X</key>
-      <integer>-330</integer>
-      <key>public.kern2.Y</key>
-      <integer>-330</integer>
-      <key>public.kern2.Z</key>
-      <integer>-330</integer>
-      <key>public.kern2.a</key>
-      <integer>-190</integer>
-      <key>public.kern2.a.alt</key>
-      <integer>-170</integer>
-      <key>public.kern2.b</key>
-      <integer>-330</integer>
-      <key>public.kern2.c</key>
-      <integer>-245</integer>
-      <key>public.kern2.d</key>
-      <integer>-190</integer>
-      <key>public.kern2.dcaron</key>
-      <integer>-190</integer>
-      <key>public.kern2.dcroat</key>
-      <integer>-190</integer>
-      <key>public.kern2.e</key>
-      <integer>-225</integer>
-      <key>public.kern2.eth</key>
-      <integer>-225</integer>
-      <key>public.kern2.f</key>
-      <integer>-200</integer>
-      <key>public.kern2.g</key>
-      <integer>-50</integer>
-      <key>public.kern2.germandbls</key>
-      <integer>-325</integer>
-      <key>public.kern2.h</key>
-      <integer>-315</integer>
-      <key>public.kern2.i</key>
-      <integer>-150</integer>
       <key>public.kern2.j</key>
       <integer>45</integer>
-      <key>public.kern2.l</key>
-      <integer>-160</integer>
-      <key>public.kern2.lcaron</key>
-      <integer>-250</integer>
-      <key>public.kern2.lslash</key>
-      <integer>-195</integer>
-      <key>public.kern2.m</key>
-      <integer>-330</integer>
-      <key>public.kern2.n</key>
-      <integer>-310</integer>
-      <key>public.kern2.o</key>
-      <integer>-245</integer>
-      <key>public.kern2.oslash</key>
-      <integer>-220</integer>
-      <key>public.kern2.q</key>
-      <integer>-190</integer>
-      <key>public.kern2.r</key>
-      <integer>-215</integer>
-      <key>public.kern2.s</key>
-      <integer>-165</integer>
-      <key>public.kern2.t</key>
-      <integer>-140</integer>
-      <key>public.kern2.tcaron</key>
-      <integer>-140</integer>
-      <key>public.kern2.u</key>
-      <integer>-130</integer>
-      <key>public.kern2.v</key>
-      <integer>-315</integer>
-      <key>public.kern2.w</key>
-      <integer>-330</integer>
-      <key>public.kern2.x</key>
-      <integer>-295</integer>
-      <key>public.kern2.y</key>
-      <integer>-35</integer>
-      <key>public.kern2.z</key>
-      <integer>-280</integer>
-      <key>question</key>
-      <integer>-175</integer>
-      <key>questiondown</key>
-      <integer>-10</integer>
-      <key>quotedbl</key>
-      <integer>-285</integer>
-      <key>quotedblbase</key>
-      <integer>-45</integer>
-      <key>quotedblleft</key>
-      <integer>-305</integer>
-      <key>quotedblright</key>
-      <integer>-305</integer>
-      <key>quoteleft</key>
-      <integer>-155</integer>
-      <key>quoteright</key>
-      <integer>-155</integer>
-      <key>quotesinglbase</key>
-      <integer>-45</integer>
-      <key>quotesingle</key>
-      <integer>-145</integer>
-      <key>registered</key>
-      <integer>-300</integer>
-      <key>semicolon</key>
-      <integer>-40</integer>
       <key>slash</key>
       <integer>55</integer>
-      <key>sterling</key>
-      <integer>-330</integer>
-      <key>trademark</key>
-      <integer>-330</integer>
-      <key>yen</key>
-      <integer>-330</integer>
     </dict>
     <key>yen</key>
     <dict>
@@ -15379,8 +14929,6 @@
       <integer>-60</integer>
       <key>trademark</key>
       <integer>-15</integer>
-      <key>underscore</key>
-      <integer>-330</integer>
     </dict>
   </dict>
 </plist>

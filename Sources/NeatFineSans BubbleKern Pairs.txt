@@ -97,7 +97,6 @@ A bracketright
 A hyphen
 A endash
 A emdash
-A underscore
 A quotesinglbase
 A quotedblbase
 A quotedblleft
@@ -233,7 +232,6 @@ B bracketright
 B hyphen
 B endash
 B emdash
-B underscore
 B quotesinglbase
 B quotedblbase
 B quotedblleft
@@ -369,7 +367,6 @@ C bracketright
 C hyphen
 C endash
 C emdash
-C underscore
 C quotesinglbase
 C quotedblbase
 C quotedblleft
@@ -505,7 +502,6 @@ D bracketright
 D hyphen
 D endash
 D emdash
-D underscore
 D quotesinglbase
 D quotedblbase
 D quotedblleft
@@ -641,7 +637,6 @@ Eth bracketright
 Eth hyphen
 Eth endash
 Eth emdash
-Eth underscore
 Eth quotesinglbase
 Eth quotedblbase
 Eth quotedblleft
@@ -777,7 +772,6 @@ E bracketright
 E hyphen
 E endash
 E emdash
-E underscore
 E quotesinglbase
 E quotedblbase
 E quotedblleft
@@ -913,7 +907,6 @@ F bracketright
 F hyphen
 F endash
 F emdash
-F underscore
 F quotesinglbase
 F quotedblbase
 F quotedblleft
@@ -1049,7 +1042,6 @@ G bracketright
 G hyphen
 G endash
 G emdash
-G underscore
 G quotesinglbase
 G quotedblbase
 G quotedblleft
@@ -1185,7 +1177,6 @@ H bracketright
 H hyphen
 H endash
 H emdash
-H underscore
 H quotesinglbase
 H quotedblbase
 H quotedblleft
@@ -1321,7 +1312,6 @@ I bracketright
 I hyphen
 I endash
 I emdash
-I underscore
 I quotesinglbase
 I quotedblbase
 I quotedblleft
@@ -1457,7 +1447,6 @@ J bracketright
 J hyphen
 J endash
 J emdash
-J underscore
 J quotesinglbase
 J quotedblbase
 J quotedblleft
@@ -1593,7 +1582,6 @@ K bracketright
 K hyphen
 K endash
 K emdash
-K underscore
 K quotesinglbase
 K quotedblbase
 K quotedblleft
@@ -1729,7 +1717,6 @@ L bracketright
 L hyphen
 L endash
 L emdash
-L underscore
 L quotesinglbase
 L quotedblbase
 L quotedblleft
@@ -1865,7 +1852,6 @@ Lslash bracketright
 Lslash hyphen
 Lslash endash
 Lslash emdash
-Lslash underscore
 Lslash quotesinglbase
 Lslash quotedblbase
 Lslash quotedblleft
@@ -2001,7 +1987,6 @@ M bracketright
 M hyphen
 M endash
 M emdash
-M underscore
 M quotesinglbase
 M quotedblbase
 M quotedblleft
@@ -2137,7 +2122,6 @@ N bracketright
 N hyphen
 N endash
 N emdash
-N underscore
 N quotesinglbase
 N quotedblbase
 N quotedblleft
@@ -2273,7 +2257,6 @@ O bracketright
 O hyphen
 O endash
 O emdash
-O underscore
 O quotesinglbase
 O quotedblbase
 O quotedblleft
@@ -2409,7 +2392,6 @@ Oslash bracketright
 Oslash hyphen
 Oslash endash
 Oslash emdash
-Oslash underscore
 Oslash quotesinglbase
 Oslash quotedblbase
 Oslash quotedblleft
@@ -2545,7 +2527,6 @@ P bracketright
 P hyphen
 P endash
 P emdash
-P underscore
 P quotesinglbase
 P quotedblbase
 P quotedblleft
@@ -2681,7 +2662,6 @@ Thorn bracketright
 Thorn hyphen
 Thorn endash
 Thorn emdash
-Thorn underscore
 Thorn quotesinglbase
 Thorn quotedblbase
 Thorn quotedblleft
@@ -2817,7 +2797,6 @@ Q bracketright
 Q hyphen
 Q endash
 Q emdash
-Q underscore
 Q quotesinglbase
 Q quotedblbase
 Q quotedblleft
@@ -2953,7 +2932,6 @@ R bracketright
 R hyphen
 R endash
 R emdash
-R underscore
 R quotesinglbase
 R quotedblbase
 R quotedblleft
@@ -3089,7 +3067,6 @@ S bracketright
 S hyphen
 S endash
 S emdash
-S underscore
 S quotesinglbase
 S quotedblbase
 S quotedblleft
@@ -3225,7 +3202,6 @@ T bracketright
 T hyphen
 T endash
 T emdash
-T underscore
 T quotesinglbase
 T quotedblbase
 T quotedblleft
@@ -3361,7 +3337,6 @@ U bracketright
 U hyphen
 U endash
 U emdash
-U underscore
 U quotesinglbase
 U quotedblbase
 U quotedblleft
@@ -3497,7 +3472,6 @@ V bracketright
 V hyphen
 V endash
 V emdash
-V underscore
 V quotesinglbase
 V quotedblbase
 V quotedblleft
@@ -3633,7 +3607,6 @@ W bracketright
 W hyphen
 W endash
 W emdash
-W underscore
 W quotesinglbase
 W quotedblbase
 W quotedblleft
@@ -3769,7 +3742,6 @@ X bracketright
 X hyphen
 X endash
 X emdash
-X underscore
 X quotesinglbase
 X quotedblbase
 X quotedblleft
@@ -3905,7 +3877,6 @@ Y bracketright
 Y hyphen
 Y endash
 Y emdash
-Y underscore
 Y quotesinglbase
 Y quotedblbase
 Y quotedblleft
@@ -4041,7 +4012,6 @@ Z bracketright
 Z hyphen
 Z endash
 Z emdash
-Z underscore
 Z quotesinglbase
 Z quotedblbase
 Z quotedblleft
@@ -4177,7 +4147,6 @@ a bracketright
 a hyphen
 a endash
 a emdash
-a underscore
 a quotesinglbase
 a quotedblbase
 a quotedblleft
@@ -4313,7 +4282,6 @@ b bracketright
 b hyphen
 b endash
 b emdash
-b underscore
 b quotesinglbase
 b quotedblbase
 b quotedblleft
@@ -4449,7 +4417,6 @@ c bracketright
 c hyphen
 c endash
 c emdash
-c underscore
 c quotesinglbase
 c quotedblbase
 c quotedblleft
@@ -4585,7 +4552,6 @@ d bracketright
 d hyphen
 d endash
 d emdash
-d underscore
 d quotesinglbase
 d quotedblbase
 d quotedblleft
@@ -4721,7 +4687,6 @@ eth bracketright
 eth hyphen
 eth endash
 eth emdash
-eth underscore
 eth quotesinglbase
 eth quotedblbase
 eth quotedblleft
@@ -4857,7 +4822,6 @@ dcaron bracketright
 dcaron hyphen
 dcaron endash
 dcaron emdash
-dcaron underscore
 dcaron quotesinglbase
 dcaron quotedblbase
 dcaron quotedblleft
@@ -4993,7 +4957,6 @@ dcroat bracketright
 dcroat hyphen
 dcroat endash
 dcroat emdash
-dcroat underscore
 dcroat quotesinglbase
 dcroat quotedblbase
 dcroat quotedblleft
@@ -5129,7 +5092,6 @@ e bracketright
 e hyphen
 e endash
 e emdash
-e underscore
 e quotesinglbase
 e quotedblbase
 e quotedblleft
@@ -5265,7 +5227,6 @@ f bracketright
 f hyphen
 f endash
 f emdash
-f underscore
 f quotesinglbase
 f quotedblbase
 f quotedblleft
@@ -5401,7 +5362,6 @@ g bracketright
 g hyphen
 g endash
 g emdash
-g underscore
 g quotesinglbase
 g quotedblbase
 g quotedblleft
@@ -5537,7 +5497,6 @@ h bracketright
 h hyphen
 h endash
 h emdash
-h underscore
 h quotesinglbase
 h quotedblbase
 h quotedblleft
@@ -5673,7 +5632,6 @@ i bracketright
 i hyphen
 i endash
 i emdash
-i underscore
 i quotesinglbase
 i quotedblbase
 i quotedblleft
@@ -5809,7 +5767,6 @@ j bracketright
 j hyphen
 j endash
 j emdash
-j underscore
 j quotesinglbase
 j quotedblbase
 j quotedblleft
@@ -5945,7 +5902,6 @@ l bracketright
 l hyphen
 l endash
 l emdash
-l underscore
 l quotesinglbase
 l quotedblbase
 l quotedblleft
@@ -6081,7 +6037,6 @@ lcaron bracketright
 lcaron hyphen
 lcaron endash
 lcaron emdash
-lcaron underscore
 lcaron quotesinglbase
 lcaron quotedblbase
 lcaron quotedblleft
@@ -6217,7 +6172,6 @@ lslash bracketright
 lslash hyphen
 lslash endash
 lslash emdash
-lslash underscore
 lslash quotesinglbase
 lslash quotedblbase
 lslash quotedblleft
@@ -6353,7 +6307,6 @@ m bracketright
 m hyphen
 m endash
 m emdash
-m underscore
 m quotesinglbase
 m quotedblbase
 m quotedblleft
@@ -6489,7 +6442,6 @@ n bracketright
 n hyphen
 n endash
 n emdash
-n underscore
 n quotesinglbase
 n quotedblbase
 n quotedblleft
@@ -6625,7 +6577,6 @@ o bracketright
 o hyphen
 o endash
 o emdash
-o underscore
 o quotesinglbase
 o quotedblbase
 o quotedblleft
@@ -6761,7 +6712,6 @@ oslash bracketright
 oslash hyphen
 oslash endash
 oslash emdash
-oslash underscore
 oslash quotesinglbase
 oslash quotedblbase
 oslash quotedblleft
@@ -6897,7 +6847,6 @@ p bracketright
 p hyphen
 p endash
 p emdash
-p underscore
 p quotesinglbase
 p quotedblbase
 p quotedblleft
@@ -7033,7 +6982,6 @@ thorn bracketright
 thorn hyphen
 thorn endash
 thorn emdash
-thorn underscore
 thorn quotesinglbase
 thorn quotedblbase
 thorn quotedblleft
@@ -7169,7 +7117,6 @@ q bracketright
 q hyphen
 q endash
 q emdash
-q underscore
 q quotesinglbase
 q quotedblbase
 q quotedblleft
@@ -7305,7 +7252,6 @@ r bracketright
 r hyphen
 r endash
 r emdash
-r underscore
 r quotesinglbase
 r quotedblbase
 r quotedblleft
@@ -7441,7 +7387,6 @@ s bracketright
 s hyphen
 s endash
 s emdash
-s underscore
 s quotesinglbase
 s quotedblbase
 s quotedblleft
@@ -7577,7 +7522,6 @@ germandbls bracketright
 germandbls hyphen
 germandbls endash
 germandbls emdash
-germandbls underscore
 germandbls quotesinglbase
 germandbls quotedblbase
 germandbls quotedblleft
@@ -7713,7 +7657,6 @@ t bracketright
 t hyphen
 t endash
 t emdash
-t underscore
 t quotesinglbase
 t quotedblbase
 t quotedblleft
@@ -7849,7 +7792,6 @@ tcaron bracketright
 tcaron hyphen
 tcaron endash
 tcaron emdash
-tcaron underscore
 tcaron quotesinglbase
 tcaron quotedblbase
 tcaron quotedblleft
@@ -7985,7 +7927,6 @@ u bracketright
 u hyphen
 u endash
 u emdash
-u underscore
 u quotesinglbase
 u quotedblbase
 u quotedblleft
@@ -8121,7 +8062,6 @@ v bracketright
 v hyphen
 v endash
 v emdash
-v underscore
 v quotesinglbase
 v quotedblbase
 v quotedblleft
@@ -8257,7 +8197,6 @@ w bracketright
 w hyphen
 w endash
 w emdash
-w underscore
 w quotesinglbase
 w quotedblbase
 w quotedblleft
@@ -8393,7 +8332,6 @@ x bracketright
 x hyphen
 x endash
 x emdash
-x underscore
 x quotesinglbase
 x quotedblbase
 x quotedblleft
@@ -8529,7 +8467,6 @@ y bracketright
 y hyphen
 y endash
 y emdash
-y underscore
 y quotesinglbase
 y quotedblbase
 y quotedblleft
@@ -8665,7 +8602,6 @@ z bracketright
 z hyphen
 z endash
 z emdash
-z underscore
 z quotesinglbase
 z quotedblbase
 z quotedblleft
@@ -8801,7 +8737,6 @@ a.alt bracketright
 a.alt hyphen
 a.alt endash
 a.alt emdash
-a.alt underscore
 a.alt quotesinglbase
 a.alt quotedblbase
 a.alt quotedblleft
@@ -8937,7 +8872,6 @@ a.alt degree
 0 hyphen
 0 endash
 0 emdash
-0 underscore
 0 quotesinglbase
 0 quotedblbase
 0 quotedblleft
@@ -9073,7 +9007,6 @@ a.alt degree
 1 hyphen
 1 endash
 1 emdash
-1 underscore
 1 quotesinglbase
 1 quotedblbase
 1 quotedblleft
@@ -9209,7 +9142,6 @@ a.alt degree
 2 hyphen
 2 endash
 2 emdash
-2 underscore
 2 quotesinglbase
 2 quotedblbase
 2 quotedblleft
@@ -9345,7 +9277,6 @@ a.alt degree
 3 hyphen
 3 endash
 3 emdash
-3 underscore
 3 quotesinglbase
 3 quotedblbase
 3 quotedblleft
@@ -9481,7 +9412,6 @@ a.alt degree
 4 hyphen
 4 endash
 4 emdash
-4 underscore
 4 quotesinglbase
 4 quotedblbase
 4 quotedblleft
@@ -9617,7 +9547,6 @@ a.alt degree
 5 hyphen
 5 endash
 5 emdash
-5 underscore
 5 quotesinglbase
 5 quotedblbase
 5 quotedblleft
@@ -9753,7 +9682,6 @@ a.alt degree
 6 hyphen
 6 endash
 6 emdash
-6 underscore
 6 quotesinglbase
 6 quotedblbase
 6 quotedblleft
@@ -9889,7 +9817,6 @@ a.alt degree
 7 hyphen
 7 endash
 7 emdash
-7 underscore
 7 quotesinglbase
 7 quotedblbase
 7 quotedblleft
@@ -10025,7 +9952,6 @@ a.alt degree
 8 hyphen
 8 endash
 8 emdash
-8 underscore
 8 quotesinglbase
 8 quotedblbase
 8 quotedblleft
@@ -10161,7 +10087,6 @@ a.alt degree
 9 hyphen
 9 endash
 9 emdash
-9 underscore
 9 quotesinglbase
 9 quotedblbase
 9 quotedblleft
@@ -10297,7 +10222,6 @@ a.alt degree
 . hyphen
 . endash
 . emdash
-. underscore
 . quotesinglbase
 . quotedblbase
 . quotedblleft
@@ -10433,7 +10357,6 @@ comma bracketright
 comma hyphen
 comma endash
 comma emdash
-comma underscore
 comma quotesinglbase
 comma quotedblbase
 comma quotedblleft
@@ -10569,7 +10492,6 @@ colon bracketright
 colon hyphen
 colon endash
 colon emdash
-colon underscore
 colon quotesinglbase
 colon quotedblbase
 colon quotedblleft
@@ -10705,7 +10627,6 @@ semicolon bracketright
 semicolon hyphen
 semicolon endash
 semicolon emdash
-semicolon underscore
 semicolon quotesinglbase
 semicolon quotedblbase
 semicolon quotedblleft
@@ -10841,7 +10762,6 @@ ellipsis bracketright
 ellipsis hyphen
 ellipsis endash
 ellipsis emdash
-ellipsis underscore
 ellipsis quotesinglbase
 ellipsis quotedblbase
 ellipsis quotedblleft
@@ -10977,7 +10897,6 @@ exclaim bracketright
 exclaim hyphen
 exclaim endash
 exclaim emdash
-exclaim underscore
 exclaim quotesinglbase
 exclaim quotedblbase
 exclaim quotedblleft
@@ -11113,7 +11032,6 @@ exclaimdown bracketright
 exclaimdown hyphen
 exclaimdown endash
 exclaimdown emdash
-exclaimdown underscore
 exclaimdown quotesinglbase
 exclaimdown quotedblbase
 exclaimdown quotedblleft
@@ -11249,7 +11167,6 @@ question bracketright
 question hyphen
 question endash
 question emdash
-question underscore
 question quotesinglbase
 question quotedblbase
 question quotedblleft
@@ -11385,7 +11302,6 @@ questiondown bracketright
 questiondown hyphen
 questiondown endash
 questiondown emdash
-questiondown underscore
 questiondown quotesinglbase
 questiondown quotedblbase
 questiondown quotedblleft
@@ -11521,7 +11437,6 @@ periodcentered bracketright
 periodcentered hyphen
 periodcentered endash
 periodcentered emdash
-periodcentered underscore
 periodcentered quotesinglbase
 periodcentered quotedblbase
 periodcentered quotedblleft
@@ -11657,7 +11572,6 @@ bullet bracketright
 bullet hyphen
 bullet endash
 bullet emdash
-bullet underscore
 bullet quotesinglbase
 bullet quotedblbase
 bullet quotedblleft
@@ -11793,7 +11707,6 @@ asterisk bracketright
 asterisk hyphen
 asterisk endash
 asterisk emdash
-asterisk underscore
 asterisk quotesinglbase
 asterisk quotedblbase
 asterisk quotedblleft
@@ -11929,7 +11842,6 @@ numbersign bracketright
 numbersign hyphen
 numbersign endash
 numbersign emdash
-numbersign underscore
 numbersign quotesinglbase
 numbersign quotedblbase
 numbersign quotedblleft
@@ -12065,7 +11977,6 @@ slash bracketright
 slash hyphen
 slash endash
 slash emdash
-slash underscore
 slash quotesinglbase
 slash quotedblbase
 slash quotedblleft
@@ -12337,7 +12248,6 @@ parenleft bracketright
 parenleft hyphen
 parenleft endash
 parenleft emdash
-parenleft underscore
 parenleft quotesinglbase
 parenleft quotedblbase
 parenleft quotedblleft
@@ -12473,7 +12383,6 @@ parenright bracketright
 parenright hyphen
 parenright endash
 parenright emdash
-parenright underscore
 parenright quotesinglbase
 parenright quotedblbase
 parenright quotedblleft
@@ -12609,7 +12518,6 @@ braceleft bracketright
 braceleft hyphen
 braceleft endash
 braceleft emdash
-braceleft underscore
 braceleft quotesinglbase
 braceleft quotedblbase
 braceleft quotedblleft
@@ -12745,7 +12653,6 @@ braceright bracketright
 braceright hyphen
 braceright endash
 braceright emdash
-braceright underscore
 braceright quotesinglbase
 braceright quotedblbase
 braceright quotedblleft
@@ -12881,7 +12788,6 @@ bracketleft bracketright
 bracketleft hyphen
 bracketleft endash
 bracketleft emdash
-bracketleft underscore
 bracketleft quotesinglbase
 bracketleft quotedblbase
 bracketleft quotedblleft
@@ -13017,7 +12923,6 @@ bracketright bracketright
 bracketright hyphen
 bracketright endash
 bracketright emdash
-bracketright underscore
 bracketright quotesinglbase
 bracketright quotedblbase
 bracketright quotedblleft
@@ -13153,7 +13058,6 @@ hyphen bracketright
 hyphen hyphen
 hyphen endash
 hyphen emdash
-hyphen underscore
 hyphen quotesinglbase
 hyphen quotedblbase
 hyphen quotedblleft
@@ -13289,7 +13193,6 @@ endash bracketright
 endash hyphen
 endash endash
 endash emdash
-endash underscore
 endash quotesinglbase
 endash quotedblbase
 endash quotedblleft
@@ -13425,7 +13328,6 @@ emdash bracketright
 emdash hyphen
 emdash endash
 emdash emdash
-emdash underscore
 emdash quotesinglbase
 emdash quotedblbase
 emdash quotedblleft
@@ -13462,142 +13364,8 @@ emdash registered
 emdash trademark
 emdash bar
 emdash degree
-underscore A
-underscore B
-underscore C
-underscore D
-underscore Eth
-underscore E
-underscore F
-underscore G
-underscore H
-underscore I
-underscore J
-underscore K
-underscore L
-underscore Lslash
-underscore M
-underscore N
-underscore O
-underscore Oslash
-underscore P
-underscore Thorn
-underscore Q
-underscore R
-underscore S
-underscore T
-underscore U
-underscore V
-underscore W
-underscore X
-underscore Y
-underscore Z
-underscore a
-underscore b
-underscore c
-underscore d
-underscore eth
-underscore dcaron
-underscore dcroat
-underscore e
-underscore f
-underscore g
-underscore h
-underscore i
 underscore j
-underscore l
-underscore lcaron
-underscore lslash
-underscore m
-underscore n
-underscore o
-underscore oslash
-underscore p
-underscore thorn
-underscore q
-underscore r
-underscore s
-underscore germandbls
-underscore t
-underscore tcaron
-underscore u
-underscore v
-underscore w
-underscore x
-underscore y
-underscore z
-underscore a.alt
-underscore 0
-underscore 1
-underscore 2
-underscore 3
-underscore 4
-underscore 5
-underscore 6
-underscore 7
-underscore 8
-underscore 9
-underscore .
-underscore comma
-underscore colon
-underscore semicolon
-underscore ellipsis
-underscore exclaim
-underscore exclaimdown
-underscore question
-underscore questiondown
-underscore periodcentered
-underscore bullet
-underscore asterisk
-underscore numbersign
 underscore slash
-underscore backslash
-underscore parenleft
-underscore parenright
-underscore braceleft
-underscore braceright
-underscore bracketleft
-underscore bracketright
-underscore hyphen
-underscore endash
-underscore emdash
-underscore underscore
-underscore quotesinglbase
-underscore quotedblbase
-underscore quotedblleft
-underscore quotedblright
-underscore quoteleft
-underscore quoteright
-underscore guillemetleft
-underscore guillemetright
-underscore guilsinglleft
-underscore guilsinglright
-underscore quotedbl
-underscore quotesingle
-underscore cent
-underscore dollar
-underscore euro
-underscore sterling
-underscore yen
-underscore plus
-underscore minus
-underscore multiply
-underscore divide
-underscore equal
-underscore greater
-underscore less
-underscore asciitilde
-underscore asciicircum
-underscore percent
-underscore perthousand
-underscore at
-underscore ampersand
-underscore paragraph
-underscore copyright
-underscore registered
-underscore trademark
-underscore bar
-underscore degree
 quotesinglbase A
 quotesinglbase B
 quotesinglbase C
@@ -13697,7 +13465,6 @@ quotesinglbase bracketright
 quotesinglbase hyphen
 quotesinglbase endash
 quotesinglbase emdash
-quotesinglbase underscore
 quotesinglbase quotesinglbase
 quotesinglbase quotedblbase
 quotesinglbase quotedblleft
@@ -13833,7 +13600,6 @@ quotedblbase bracketright
 quotedblbase hyphen
 quotedblbase endash
 quotedblbase emdash
-quotedblbase underscore
 quotedblbase quotesinglbase
 quotedblbase quotedblbase
 quotedblbase quotedblleft
@@ -13969,7 +13735,6 @@ quotedblleft bracketright
 quotedblleft hyphen
 quotedblleft endash
 quotedblleft emdash
-quotedblleft underscore
 quotedblleft quotesinglbase
 quotedblleft quotedblbase
 quotedblleft quotedblleft
@@ -14105,7 +13870,6 @@ quotedblright bracketright
 quotedblright hyphen
 quotedblright endash
 quotedblright emdash
-quotedblright underscore
 quotedblright quotesinglbase
 quotedblright quotedblbase
 quotedblright quotedblleft
@@ -14241,7 +14005,6 @@ quoteleft bracketright
 quoteleft hyphen
 quoteleft endash
 quoteleft emdash
-quoteleft underscore
 quoteleft quotesinglbase
 quoteleft quotedblbase
 quoteleft quotedblleft
@@ -14377,7 +14140,6 @@ quoteright bracketright
 quoteright hyphen
 quoteright endash
 quoteright emdash
-quoteright underscore
 quoteright quotesinglbase
 quoteright quotedblbase
 quoteright quotedblleft
@@ -14513,7 +14275,6 @@ guillemetleft bracketright
 guillemetleft hyphen
 guillemetleft endash
 guillemetleft emdash
-guillemetleft underscore
 guillemetleft quotesinglbase
 guillemetleft quotedblbase
 guillemetleft quotedblleft
@@ -14649,7 +14410,6 @@ guillemetright bracketright
 guillemetright hyphen
 guillemetright endash
 guillemetright emdash
-guillemetright underscore
 guillemetright quotesinglbase
 guillemetright quotedblbase
 guillemetright quotedblleft
@@ -14785,7 +14545,6 @@ guilsinglleft bracketright
 guilsinglleft hyphen
 guilsinglleft endash
 guilsinglleft emdash
-guilsinglleft underscore
 guilsinglleft quotesinglbase
 guilsinglleft quotedblbase
 guilsinglleft quotedblleft
@@ -14921,7 +14680,6 @@ guilsinglright bracketright
 guilsinglright hyphen
 guilsinglright endash
 guilsinglright emdash
-guilsinglright underscore
 guilsinglright quotesinglbase
 guilsinglright quotedblbase
 guilsinglright quotedblleft
@@ -15057,7 +14815,6 @@ quotedbl bracketright
 quotedbl hyphen
 quotedbl endash
 quotedbl emdash
-quotedbl underscore
 quotedbl quotesinglbase
 quotedbl quotedblbase
 quotedbl quotedblleft
@@ -15193,7 +14950,6 @@ quotesingle bracketright
 quotesingle hyphen
 quotesingle endash
 quotesingle emdash
-quotesingle underscore
 quotesingle quotesinglbase
 quotesingle quotedblbase
 quotesingle quotedblleft
@@ -15329,7 +15085,6 @@ cent bracketright
 cent hyphen
 cent endash
 cent emdash
-cent underscore
 cent quotesinglbase
 cent quotedblbase
 cent quotedblleft
@@ -15465,7 +15220,6 @@ dollar bracketright
 dollar hyphen
 dollar endash
 dollar emdash
-dollar underscore
 dollar quotesinglbase
 dollar quotedblbase
 dollar quotedblleft
@@ -15601,7 +15355,6 @@ euro bracketright
 euro hyphen
 euro endash
 euro emdash
-euro underscore
 euro quotesinglbase
 euro quotedblbase
 euro quotedblleft
@@ -15737,7 +15490,6 @@ sterling bracketright
 sterling hyphen
 sterling endash
 sterling emdash
-sterling underscore
 sterling quotesinglbase
 sterling quotedblbase
 sterling quotedblleft
@@ -15873,7 +15625,6 @@ yen bracketright
 yen hyphen
 yen endash
 yen emdash
-yen underscore
 yen quotesinglbase
 yen quotedblbase
 yen quotedblleft
@@ -16009,7 +15760,6 @@ plus bracketright
 plus hyphen
 plus endash
 plus emdash
-plus underscore
 plus quotesinglbase
 plus quotedblbase
 plus quotedblleft
@@ -16145,7 +15895,6 @@ minus bracketright
 minus hyphen
 minus endash
 minus emdash
-minus underscore
 minus quotesinglbase
 minus quotedblbase
 minus quotedblleft
@@ -16281,7 +16030,6 @@ multiply bracketright
 multiply hyphen
 multiply endash
 multiply emdash
-multiply underscore
 multiply quotesinglbase
 multiply quotedblbase
 multiply quotedblleft
@@ -16417,7 +16165,6 @@ divide bracketright
 divide hyphen
 divide endash
 divide emdash
-divide underscore
 divide quotesinglbase
 divide quotedblbase
 divide quotedblleft
@@ -16553,7 +16300,6 @@ equal bracketright
 equal hyphen
 equal endash
 equal emdash
-equal underscore
 equal quotesinglbase
 equal quotedblbase
 equal quotedblleft
@@ -16689,7 +16435,6 @@ greater bracketright
 greater hyphen
 greater endash
 greater emdash
-greater underscore
 greater quotesinglbase
 greater quotedblbase
 greater quotedblleft
@@ -16825,7 +16570,6 @@ less bracketright
 less hyphen
 less endash
 less emdash
-less underscore
 less quotesinglbase
 less quotedblbase
 less quotedblleft
@@ -16961,7 +16705,6 @@ asciitilde bracketright
 asciitilde hyphen
 asciitilde endash
 asciitilde emdash
-asciitilde underscore
 asciitilde quotesinglbase
 asciitilde quotedblbase
 asciitilde quotedblleft
@@ -17097,7 +16840,6 @@ asciicircum bracketright
 asciicircum hyphen
 asciicircum endash
 asciicircum emdash
-asciicircum underscore
 asciicircum quotesinglbase
 asciicircum quotedblbase
 asciicircum quotedblleft
@@ -17233,7 +16975,6 @@ percent bracketright
 percent hyphen
 percent endash
 percent emdash
-percent underscore
 percent quotesinglbase
 percent quotedblbase
 percent quotedblleft
@@ -17369,7 +17110,6 @@ perthousand bracketright
 perthousand hyphen
 perthousand endash
 perthousand emdash
-perthousand underscore
 perthousand quotesinglbase
 perthousand quotedblbase
 perthousand quotedblleft
@@ -17505,7 +17245,6 @@ at bracketright
 at hyphen
 at endash
 at emdash
-at underscore
 at quotesinglbase
 at quotedblbase
 at quotedblleft
@@ -17641,7 +17380,6 @@ ampersand bracketright
 ampersand hyphen
 ampersand endash
 ampersand emdash
-ampersand underscore
 ampersand quotesinglbase
 ampersand quotedblbase
 ampersand quotedblleft
@@ -17777,7 +17515,6 @@ paragraph bracketright
 paragraph hyphen
 paragraph endash
 paragraph emdash
-paragraph underscore
 paragraph quotesinglbase
 paragraph quotedblbase
 paragraph quotedblleft
@@ -17913,7 +17650,6 @@ copyright bracketright
 copyright hyphen
 copyright endash
 copyright emdash
-copyright underscore
 copyright quotesinglbase
 copyright quotedblbase
 copyright quotedblleft
@@ -18049,7 +17785,6 @@ registered bracketright
 registered hyphen
 registered endash
 registered emdash
-registered underscore
 registered quotesinglbase
 registered quotedblbase
 registered quotedblleft
@@ -18185,7 +17920,6 @@ trademark bracketright
 trademark hyphen
 trademark endash
 trademark emdash
-trademark underscore
 trademark quotesinglbase
 trademark quotedblbase
 trademark quotedblleft
@@ -18321,7 +18055,6 @@ bar bracketright
 bar hyphen
 bar endash
 bar emdash
-bar underscore
 bar quotesinglbase
 bar quotedblbase
 bar quotedblleft
@@ -18457,7 +18190,6 @@ degree bracketright
 degree hyphen
 degree endash
 degree emdash
-degree underscore
 degree quotesinglbase
 degree quotedblbase
 degree quotedblleft

@@ -114,6 +114,8 @@ Each outline layer needs a corresponding 'bubble' layer (see right hand side 'La
 
 Once defined/drawn for every glyph, BubbleKern is then run using `NeatFineSans BubbleKern Pairs.txt`. **Any kern pairs must go in this file/BubbleKern must only be run using this file.**
 
+`underscore` is deliberately left out of this file, except for `underscore j`, `underscore slash` and `backslash underscore`, where its outline really does collide with the neighbour. It sits below the baseline, so against anything else its bubble finds no collision and BubbleKern kerns it as far as it can, letting the letters on either side close up over it.
+
 Offset values used when drawing the kern bubbles: 56, 53 & 50 for Thin, Regular & Black, respectively — chosen to honor the values already established by HT Letterspacer.
 
 ## <a name="cursify"></a> Cursify
